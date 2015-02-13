@@ -5,7 +5,7 @@ public class testlibrary {
 		public void display()
 		{
 			System.out.println("chandrasekar");
-			System.out.println("Accept the pull request 3 from RAM");
+			System.out.println("Accept the pull request 3 from Chan");
 		}
 	
 	
