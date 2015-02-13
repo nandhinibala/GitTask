@@ -6,6 +6,7 @@ public class Fourthclass {
 	{
 		System.out.println("chandrasekar");
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 	
 	
